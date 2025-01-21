@@ -4,6 +4,7 @@ Bienvenido a mi página de presentación. Aquí encontrarás información sobre 
 
 ---
 
+
 ## Sobre mí
 
 Apasionado por la estrategia, la consultoría y las finanzas, me adapto fácilmente a situaciones ambiguas y en constante cambio, gracias a mi capacidad para resolver problemas mediante el pensamiento crítico y analítico. Mi experiencia internacional en Reino Unido, Francia y Estados Unidos me ha permitido desarrollar fuertes habilidades interpersonales y de comunicación.
