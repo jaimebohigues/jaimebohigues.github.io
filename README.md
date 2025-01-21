@@ -1,4 +1,3 @@
-# jaimebohigues.github.io
 # Jaime Bohigues Flores - Curriculum Vitae
 
 Bienvenido a mi página de presentación. Aquí encontrarás información sobre mi perfil, experiencia y un enlace para descargar mi CV completo.
